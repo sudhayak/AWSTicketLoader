@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "loadTicketsToAWS", "loadTicketsToAWS\loadTicketsToAWS.vcproj", "{4F59BDA3-8FE0-457C-A135-51D34B09ECA1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "loadTicketToAWSClient", "loadTicketToAWSClient\loadTicketToAWSClient.vcproj", "{59805BC8-5DDE-49DF-A6D7-3969375BDE51}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4F59BDA3-8FE0-457C-A135-51D34B09ECA1} = {4F59BDA3-8FE0-457C-A135-51D34B09ECA1}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F59BDA3-8FE0-457C-A135-51D34B09ECA1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4F59BDA3-8FE0-457C-A135-51D34B09ECA1}.Debug|Win32.Build.0 = Debug|Win32
+		{4F59BDA3-8FE0-457C-A135-51D34B09ECA1}.Release|Win32.ActiveCfg = Release|Win32
+		{4F59BDA3-8FE0-457C-A135-51D34B09ECA1}.Release|Win32.Build.0 = Release|Win32
+		{59805BC8-5DDE-49DF-A6D7-3969375BDE51}.Debug|Win32.ActiveCfg = Debug|Win32
+		{59805BC8-5DDE-49DF-A6D7-3969375BDE51}.Debug|Win32.Build.0 = Debug|Win32
+		{59805BC8-5DDE-49DF-A6D7-3969375BDE51}.Release|Win32.ActiveCfg = Release|Win32
+		{59805BC8-5DDE-49DF-A6D7-3969375BDE51}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

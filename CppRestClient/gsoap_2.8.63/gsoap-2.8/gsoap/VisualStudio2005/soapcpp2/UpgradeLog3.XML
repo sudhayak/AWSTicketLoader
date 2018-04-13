@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="soapcpp2">
+</Property><Property Name="Solution File" Value="D:\Non-Project\Technical\Cloud\projectaws\gsoap_2.8.63\gsoap-2.8\gsoap\VisualStudio2005\soapcpp2\soapcpp2.sln">
+</Property><Property Name="User Options File" Value="D:\Non-Project\Technical\Cloud\projectaws\gsoap_2.8.63\gsoap-2.8\gsoap\VisualStudio2005\soapcpp2\soapcpp2.suo">
+</Property><Property Name="Date" Value="Friday, March 02, 2018">
+</Property><Property Name="Time" Value="19:04 PM">
+</Property><Property Name="Log Number" Value="3">
+</Property></Properties><Event ErrorLevel="2" Project="" Source="soapcpp2.sln" Description="Error creating backup file: D:\Non-Project\Technical\Cloud\projectaws\gsoap_2.8.63\gsoap-2.8\gsoap\VisualStudio2005\soapcpp2\soapcpp2.sln.old">
+</Event><Event ErrorLevel="2" Project="" Source="soapcpp2.suo" Description="Error creating backup file: D:\Non-Project\Technical\Cloud\projectaws\gsoap_2.8.63\gsoap-2.8\gsoap\VisualStudio2005\soapcpp2\soapcpp2.suo.old">
+</Event><Event ErrorLevel="2" Project="soapcpp2" Source="soapcpp2\soapcpp2.vcproj" Description="The following error has occurred during XML parsing:&#xA;&#xA;File: D:\Non-Project\Technical\Cloud\projectaws\gsoap_2.8.63\gsoap-2.8\gsoap\VisualStudio2005\soapcpp2\soapcpp2\soapcpp2.vcproj&#xA;Line: 18&#xA;Column: 4&#xA;Error Message:&#xA;Custom build rules file 'd:\Non-Project\Technical\Cloud\MSDN\Sample\VC++\vccustombr\FlexBison.rules' was not found or failed to load.&#xA;The file 'D:\Non-Project\Technical\Cloud\projectaws\gsoap_2.8.63\gsoap-2.8\gsoap\VisualStudio2005\soapcpp2\soapcpp2\soapcpp2.vcproj' has failed to load.">
+</Event><Event ErrorLevel="2" Project="soapcpp2" Source="soapcpp2\soapcpp2.vcproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="soapcpp2" Source="soapcpp2\soapcpp2.vcproj" Description="Not Converted">
+</Event><Event ErrorLevel="0" Project="" Source="soapcpp2.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="soapcpp2.sln" Description="No Conversion Required">
+</Event></UpgradeLog>

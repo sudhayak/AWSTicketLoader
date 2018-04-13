@@ -1,3 +1,4 @@
+var abc = null;
 const AWS = require('aws-sdk');
 const proxy = require('proxy-agent');
 AWS.config.update({
